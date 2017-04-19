@@ -1,0 +1,29 @@
+article.first {
+	background-color: yellow;
+    font-family: Georgia;
+ 	font-size:10px;
+ 	color: red;
+ 	line-height: 200%;
+ 	padding: 2cm 4cm 3cm 4cm;
+ 	border: 2px solid;
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius:  2em;
+}
+
+article.second {
+	background-color: green;
+	font-family: Arial;
+	font-size:20px;
+	color: white;
+    line-height: 90%;
+    padding: 3cm 5cm 7cm 6cm;
+    border: 2px solid;
+    border-top-left-radius: 4em;
+    border-top-right-radius: 4em;
+    border-bottom-left-radius: 4em;
+    border-bottom-right-radius: 4em;
+}
+
+
